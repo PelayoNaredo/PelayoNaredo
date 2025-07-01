@@ -3,7 +3,7 @@
 </h1>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=PELAYO_NAREDO&style=flat-square&color=blue" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=PELAYO-NAREDO&style=flat-square&color=blue" alt="Profile views"/>
   <img src="https://img.shields.io/badge/FullStack-Developer-important" alt="FullStack Developer">
   <img src="https://img.shields.io/badge/Open%20Data-Enthusiast-brightgreen" alt="Open Data">
 </div>
