@@ -8,12 +8,6 @@
   <img src="https://img.shields.io/badge/Open%20Data-Enthusiast-brightgreen" alt="Open Data">
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PelayoNaredo/PelayoNaredo/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PelayoNaredo/PelayoNaredo/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/PelayoNaredo/PelayoNaredo/output/pacman-contribution-graph.svg">
-</picture>
-
 ###
 
 <div align="center">
