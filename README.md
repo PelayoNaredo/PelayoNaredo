@@ -118,9 +118,3 @@
 </div>
 
 ---
-
-<div align="center">
-  
-```diff
-+ "Transformando ideas en experiencias digitales con un toque creativo"
-```
