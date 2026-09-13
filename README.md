@@ -56,17 +56,6 @@
 
 ---
 
-## 📊 Estadísticas GitHub
-
-<div align="center">
-  
-![Estadísticas](https://github-readme-stats.vercel.app/api?username=PelayoNaredo&show_icons=true&theme=radical&bg_color=0d1117&hide_border=true&include_all_commits=true)
-![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=PelayoNaredo&layout=compact&theme=radical&bg_color=0d1117&hide_border=true)
-
-</div>
-
-
-
 ## 📚 Formación Relevante
 
 - 🎓 **FP Desarrollo Aplicaciones Web** - Ilerna Online 
