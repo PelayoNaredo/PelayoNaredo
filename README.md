@@ -56,19 +56,6 @@
 
 ---
 
-## 🔥 Sobre mí
-
-🎓 Estudiante avanzado de **DAW** en Ilerna Online  
-💼 1+ año como desarrollador en Ayuntamiento de Gijón  
-📸 Fotógrafo profesional desde 2019  
-🌍 Grado en Turismo (UNIOVI)  
-🚀 Buscando oportunidades para crecer como desarrollador profesional  
-✨ Combinando creatividad visual con habilidades técnicas  
-
----
-
-
-
 ## 📊 Estadísticas GitHub
 
 <div align="center">
@@ -78,27 +65,11 @@
 
 </div>
 
----
 
-## 💼 Experiencia Clave
-
-### 🏛️ **Desarrollador Web - Ayuntamiento de Gijón** (2023-2024)
-- 🚀 Desarrollo de soluciones web con HTML5/CSS/JS/PHP para datos abiertos
-- 🎨 Diseño de interfaces centradas en UX/UI y accesibilidad
-- 👥 Gestión de equipos y proyectos con entrega en plazo
-- 🧪 Pruebas exhaustivas y despliegue de aplicaciones
-
-### 📸 **Fotógrafo Profesional & Diseñador** (2019-Actualidad)
-- 🖼️ Creación de identidades visuales y estrategias de marca
-- 🎭 Gestión integral de proyectos creativos
-- ✨ Dominio avanzado de Photoshop/Illustrator
-- 👨‍🏫 Experiencia docente en fotografía
-
----
 
 ## 📚 Formación Relevante
 
-- 🎓 **FP Desarrollo Aplicaciones Web** - Ilerna Online (Actualidad)
+- 🎓 **FP Desarrollo Aplicaciones Web** - Ilerna Online 
 - 🌐 Confección y publicación de páginas web (IFCD0110 - 560h)
 - 💻 Desarrollo aplicaciones con tecnologías web (IFCD0210 -590h)
 - 📱 Curso avanzado IoT - LUCE Gijón
